@@ -14,13 +14,13 @@ I like to create a struct named list in which i put a pointer to the head node a
 
 ## Implemented functions :
 
-<strong>initialization :</strong> this function initializes an empty list and return it's pointer .
-<strong>read :</strong> this function takes a list pointer and displays the data value of each node  .
-<strong>swap :</strong> this function will swap adjacent nodes without changing data .
-<strong>insert_beginning :</strong> this function will insert a node at the beginning.
-<strong>insert_end :</strong> this function will insert a node at the end.
-<strong>sort :</strong> this function will sort the linked list.
-<strong>randomFill :</strong> this function will fill the linked list with random values.
-<strong>destroy :</strong> this function will destroy the linked list and all it's nodes .
+<strong>initialization :</strong> this function initializes an empty list and return it's pointer . </br>
+<strong>read :</strong> this function takes a list pointer and displays the data value of each node  .</br>
+<strong>swap :</strong> this function will swap adjacent nodes without changing data .</br>
+<strong>insert_beginning :</strong> this function will insert a node at the beginning.</br>
+<strong>insert_end :</strong> this function will insert a node at the end.</br>
+<strong>sort :</strong> this function will sort the linked list.</br>
+<strong>randomFill :</strong> this function will fill the linked list with random values.</br>
+<strong>destroy :</strong> this function will destroy the linked list and all it's nodes .</br>
 
 ![ll](https://drive.google.com/uc?export=view&id=1oxzsL4F9bDJJfIs-tTP2Ml6l1YuCNcEf)
