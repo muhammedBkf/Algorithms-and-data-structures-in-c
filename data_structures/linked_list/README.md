@@ -23,4 +23,4 @@ I like to create a struct named list in which i put a pointer to the head node a
 <strong>randomFill :</strong> this function will fill the linked list with random values.</br>
 <strong>destroy :</strong> this function will destroy the linked list and all it's nodes .</br>
 
-![ll](https://drive.google.com/uc?export=view&id=1oxzsL4F9bDJJfIs-tTP2Ml6l1YuCNcEf)
+![ll](https://drive.google.com/uc?export=view&id=1pfW0aQkLuvlOYEvkcrMnGNZdV5h1iX0a)
