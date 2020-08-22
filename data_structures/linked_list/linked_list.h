@@ -26,7 +26,7 @@ node *previous(List *list, node *actual);
 void swap(List *list, node *a, node *b);
 
 //This function will insert a node with "number" as data value at the beginnig
-void insert_beginnig(List *list, int number);
+void insert_beginning(List *list, int number);
 
 //This function will insert a node with "number" as data value at the end
 void insert_end(List *list, int number);
