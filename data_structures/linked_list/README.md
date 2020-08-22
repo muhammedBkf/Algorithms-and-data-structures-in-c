@@ -7,5 +7,5 @@ I like to create a struct named list in which i put a pointer to the head node a
 ## Complexity : 
           |searching|Insert/delete at beginning|Insert/delete at end
 ----------|---------|--------------------------|--------------------
-Complexity|   O(n)  |             O(1)         |          O(1)
+Complexity|O(n)|O(1)|O(1)
       
